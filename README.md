@@ -1,5 +1,5 @@
 # CollaborativeDraw
-This is collaborative drawing application built with Meteor.js
+This is collaborative drawing application built with Meteor.js 1.2.1
 
 Clone or download the project
 build with meteor
