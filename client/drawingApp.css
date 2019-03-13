@@ -1,0 +1,25 @@
+.dropdown-menu ul {
+  float: left;
+}
+
+.dropdown-menu li:hover {
+  text-decoration: underline;
+  cursor: pointer;
+  cursor: hand;
+}
+
+li {
+  list-style: none;
+}
+
+.dropdown-menu ul {
+  padding-left: 10px;
+  padding-right: 10px;
+  margin-right:0px;
+}
+
+.can_name{
+	text-decoration:none;
+	color:black;
+	text-color:black;
+}
